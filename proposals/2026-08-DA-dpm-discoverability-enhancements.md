@@ -11,10 +11,10 @@
 
 ## **Abstract**
 
-OCI DAR Managment Work
-DevNet/TestNet/MainNet tagging support
-Dpm Cleanup
-Assorted Enhancements and Improvements
+- OCI DAR Managment Work
+- DevNet/TestNet/MainNet tagging support
+- Dpm Cleanup
+- Assorted Enhancements and Improvements
 
 ---
 
@@ -24,9 +24,14 @@ Assorted Enhancements and Improvements
 
 
 ### **2. Implementation Mechanics**
-
-#### **Proposed Git-based dependency pattern**
-
+- [DAR file main-package-id support in daml.yaml](https://github.com/digital-asset/dpm/issues/297)
+- [DPM cleans up after itself](https://github.com/digital-asset/dpm/issues/295)
+- [Harmonization of dependencies and data-dependencies](https://github.com/digital-asset/dpm/issues/298)
+- [dpm publish append index[https://github.com/digital-asset/dpm/issues/296]
+- [Self-Updating Dpm](https://github.com/digital-asset/dpm/issues/294)
+- [Support components implementing cli sub-commands](https://github.com/digital-asset/dpm/issues/121)
+- [DevNet/TestNet/MainNet Easy Discoverability of Artifacts](https://github.com/digital-asset/dpm/issues/309)
+- [OCI Dar Publish and Consume](https://github.com/digital-asset/dpm/issues/308)
 
 #### **Scope limits**
 
